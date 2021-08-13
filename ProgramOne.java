@@ -4,6 +4,6 @@ class ProgramOne{
     }
 
     public static void MethodOne(String param1){
-        System.out.println("I am from MethodOne");
+        System.out.println("I am from MethodOne: Method name is MethodONe"+ param1);
     }
 }
